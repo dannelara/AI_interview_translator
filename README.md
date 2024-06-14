@@ -1,36 +1,46 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Intervju Conversational Application
 
-## Getting Started
+This project is a hackathon entry, developed in just 5 hours. It's an OpenAI-powered conversational application built using the latest versions of Next.js and the Vercel AI SDK. While the project is not fully complete, it demonstrates a solid foundation and structure for a potential full-scale application.
 
-First, run the development server:
+## Overview
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+This project is designed to simulate interview conversations using OpenAI's capabilities. Users can generate a unique code to share with another person, allowing them to connect via a socket connection for a real-time chat experience. Please note that the backend is not included in this repository. This initial version demonstrates the core functionalities and structure, but it is still a work in progress.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Features
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+Conversational interface powered by OpenAI
+Built with the latest Next.js version
+Integrated with the latest Vercel AI SDK
+Getting Started
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+These instructions will help you set up and run the project on your local machine.
 
-## Learn More
+## Prerequisites
 
-To learn more about Next.js, take a look at the following resources:
+Ensure you have the following installed on your system:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Node.js (latest version)
+npm or yarn
+Installation
+Clone the repository:
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## Usage
 
-## Deploy on Vercel
+Feel free to explore the application, interact with the conversational interface, and test its capabilities. Keep in mind that this is a prototype and may contain incomplete features or bugs.
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contributing
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+If you wish to contribute to this project, please fork the repository and submit pull requests. Ensure you give credit if you use any part of this code in your own projects.
+
+## Acknowledgements
+
+Next.js
+Vercel AI SDK
+OpenAI
+License
+
+This project is licensed under the MIT License. See the LICENSE file for details.
+
+This project is provided "as is" and is not guaranteed to be complete or fully functional. Use it as a starting point and feel free to build upon it.
+
+Feel free to clone this repository and use it as a base for your own projects. If you do, make sure to give appropriate credit.
